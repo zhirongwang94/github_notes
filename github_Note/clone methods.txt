@@ -1,0 +1,40 @@
+正确 clone 方法:
+
+😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯
+  如果用 HTTPS： https://github.com/user/repo2.git 
+  如果用 SSH：   git@github.com:user/repo2.git 
+
+😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯 
+HTTPS:
+	//方法一：
+	//只能够普通下载repos到本地电脑，有difficulty to push
+	git clone https://github.com/NAME/repo.git 
+
+	//方法二：
+	//可以push 到origin， 需要输入密码
+	git clone https://username@github.com/NAME/repo.git
+
+git clone https://github.com/vincentwang94/Vincent-Wang.git
+
+	//方法三：
+	//可以直接push到origin
+	git clone https://username:password@github.com/NAME/repo.git
+
+😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯
+SSH:
+	//最后方法：
+	//setup 好ssh, 然后每次都用ssh来clone
+	git clone git@github.com:vincentwang94/Vincent-Wang.git
+
+https://github.com/zhirongwang94/github_Note.git
+
+
+
+https://github.com/vincentwang94/Vincent-Wang.git
+
+	
+
+
+
+
+	
